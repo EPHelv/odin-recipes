@@ -1,0 +1,65 @@
+*{
+    font-family: monospace, sans-serif, "Times New Roman";
+}
+
+#gratitude{
+    background-color: #fd4747;
+    color: white;
+    font-size: 24px;
+}
+
+#arlink{
+    font-size: 28px;
+}
+
+h1{
+    font-size: 48px;
+    color: blue;
+}
+
+#recipes{
+    font-size: 22px;
+    text-align: center;
+}
+
+.re1, .chimi{
+    background-color: green;
+}
+
+.re2, .salad{
+    background-color: burlywood;
+}
+
+.re3, .lemo{
+    background-color: yellow;
+}
+
+h2{
+    font-size: 34px;
+    text-align: center;
+    color: orange;
+}
+
+.head{
+    color: #1100ff;
+}
+
+.head.chimi{
+    color: white;
+}
+
+.recilist li, ol{
+    font-weight: 900;
+}
+
+ol li{
+    text-align: center;
+    color: red;
+    background-color:black;
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    font-size: 30px;
+}
